@@ -61,7 +61,7 @@ Unlike traditional social media debates driven by ego or popularity, Debatio enf
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/debatio.git
+git clone https://github.com/Fuanyi-237/Debatio
 cd debatio
 ```
 
